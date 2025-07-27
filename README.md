@@ -1,1 +1,1 @@
-# EjadaEFProject
+# EFCoreConsoleProject
